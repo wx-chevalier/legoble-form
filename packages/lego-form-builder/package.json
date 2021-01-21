@@ -38,7 +38,7 @@
   "dependencies": {
     "ajv": "^6.10.2",
     "antd": "^3.21.4",
-    "immer": "^3.2.0",
+    "immer": "^8.0.1",
     "jsoneditor": "^6.2.1",
     "jsoneditor-react": "^1.0.1",
     "lego-form-antd": "^0.1.0",
